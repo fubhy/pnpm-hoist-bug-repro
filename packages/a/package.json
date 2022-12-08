@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "cross-env": "^7.0.3",
+    "hardhat": "^2.12.3",
     "prettier": "^2.8.1"
   }
 }
