@@ -16,4 +16,4 @@ jobs:
           node-version: 19
 
       - run: pnpm install
-      - run: pnpm hardhat compile
+      - run: pnpm prettier --check "**/*.ts"
